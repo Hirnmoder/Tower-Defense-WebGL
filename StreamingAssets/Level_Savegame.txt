@@ -1,0 +1,18 @@
+# Level
+Level_1_1
+
+# Wave
+0
+
+# Towers
+
+# Research Points
+350
+
+# Health
+20
+
+# Item Prices
+6 0
+7 0
+8 0
