@@ -1,7 +1,7 @@
 {
 "companyName": "Projektgruppe E",
 "productName": "Diseases Against Humanity",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "Build_WebGL.data.unityweb",
 "wasmCodeUrl": "Build_WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build_WebGL.wasm.framework.unityweb",
