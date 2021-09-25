@@ -1,0 +1,16 @@
+{
+"companyName": "Projektgruppe E",
+"productName": "Diseases Against Humanity",
+"productVersion": "1.0",
+"dataUrl": "Tower-Defense-WebGL.data.unityweb",
+"wasmCodeUrl": "Tower-Defense-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Tower-Defense-WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Tower-Defense-WebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
